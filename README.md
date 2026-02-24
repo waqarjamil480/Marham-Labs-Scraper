@@ -206,7 +206,7 @@ It automatically continues until no more data is available.
 ## 📂 Recommended Project Structure
 
 ```
-marham-labs-scraper/
+Marham-Labs-Scraper/
 │
 ├── scraper.py
 ├── all_labs_tests.csv
