@@ -6,6 +6,19 @@ This scraper automatically collects all available lab test information across al
 
 ---
 
+## ▶ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/waqarjamil480/Marham-Labs-Scraper.git
+cd Marham-Labs-Scraper
+
+pip install -r requirements.txt
+python scraper.py
+
+
+
 ## 🚀 Features
 
 * ✅ Scrapes **all labs test data**

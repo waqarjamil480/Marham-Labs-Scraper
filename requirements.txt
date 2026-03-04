@@ -1,7 +1,10 @@
-import requests
-import pandas as pd
-import sys
-import time
+streamlit
+requests
+pandas
+# import requests
+# import pandas as pd
+# import sys
+# import time
 #extract_data_url="https://www.marham.pk/api/lab/tests-optimized"
 #required_all_available_labs="2,3,9,15"  
 #required api url/web to extract data
