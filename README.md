@@ -249,6 +249,7 @@ Data Engineer | Technical Project Manager |  Cloud Data Engineer
 
 - LinkedIn: https://linkedin.com/in/waqar488
 - GitHub: https://github.com/waqarjamil480
+- Upwork: https://www.upwork.com/freelancers/~01941c07fb1fe9cdb0
 
 ---
 
