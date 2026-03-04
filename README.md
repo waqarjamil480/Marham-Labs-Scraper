@@ -15,9 +15,9 @@ git clone https://github.com/waqarjamil480/Marham-Labs-Scraper.git
 cd Marham-Labs-Scraper
 
 pip install -r requirements.txt
-python scraper.py
-
-
+python scraper.py 
+ 
+app.py file is only for streamlit.app no need to use this if cloned locally the required file is only scraper.py 
 
 ## 🚀 Features
 
