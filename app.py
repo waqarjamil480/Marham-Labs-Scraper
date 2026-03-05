@@ -8,7 +8,7 @@ st.title("🧪 Marham Labs Data Scraper")
 st.write("Click the button below to extract lab test data and generate CSV file.")
 
 extract_data_url = "https://www.marham.pk/api/lab/tests-optimized"
-required_all_available_labs = "2,3,9,15"
+required_all_available_labs = "2,3,9,15,50,51"
 diff_labs = required_all_available_labs.split(",")
 #there were only 4 labs at that time we can even fetch all and here we are only using required ids 
 
